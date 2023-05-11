@@ -1,0 +1,16 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "GAJHNI",
+      "genre": "FIGHT",
+      "releaseDate": "2023-03-25T09:41:11.77"
+  },
+  {
+    "id": 2,
+    "title": "RAAZ",
+    "genre": "FIGHT",
+    "releaseDate": "2023-03-25T09:41:11.77"
+}
+  ]
+}
